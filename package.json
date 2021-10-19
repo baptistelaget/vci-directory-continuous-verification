@@ -1,0 +1,19 @@
+{
+    "name": "vci-directory-continuous-verification",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "tsc",
+      "start":"node build/index.js"
+    },
+    "author": "",
+    "devDependencies": {
+      "@types/node": "^16.10.2",
+      "typescript": "^4.4.3"
+    },
+    "dependencies": {
+      "axios": "^0.22.0"
+    }
+  }
+  

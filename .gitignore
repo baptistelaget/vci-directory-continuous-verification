@@ -1,0 +1,5 @@
+node_modules/
+build/
+output/keys.json
+output/report.json
+output/errors.json
