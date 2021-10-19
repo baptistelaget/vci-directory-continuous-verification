@@ -1,6 +1,6 @@
 # VCI Directory Continuous Verification Scripts
 
-This project contains a seried of scripts that will
+This project contains a script that will
 
 - Fetch the list of trusted issuers from the [VCI Directory](https://github.com/the-commons-project/vci-directory)
 - Verify the validity of each link, i.e. can a GET request can be made to the list
